@@ -37,6 +37,7 @@ namespace produktdata
                             ProducentDatabase.UpdateProducent();
 
                             Console.WriteLine("TEST");
+                            Console.WriteLine("Funger dette?");
                             break;
 
 
