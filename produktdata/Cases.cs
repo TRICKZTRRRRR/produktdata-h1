@@ -35,6 +35,8 @@ namespace produktdata
 
                         case "2":
                             ProducentDatabase.UpdateProducent();
+
+                            Console.WriteLine("TEST");
                             break;
 
 
